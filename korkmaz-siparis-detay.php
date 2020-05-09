@@ -17,7 +17,7 @@
  * Requires PHP:      7.2
  * Author:            yemlihakorkmaz
  * Author URI:        https://yemlihakorkmaz.com
- * Text Domain:       korkmaz-manset-slider
+ * Text Domain:       korkmaz-siparis-detay
  * License:           GPL v2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
