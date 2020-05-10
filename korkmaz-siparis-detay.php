@@ -120,7 +120,7 @@ $order = wc_get_order( $order_id );
 
 
 
-    <?php if($order->get_status() == 'pending') {?>
+    <?php if($order->get_status() == 'pending' || $order->get_status() == 'on-hold') {?>
 
     <li><strong style="background: #cc0a00; color: #fff !important; padding: 5px 15px;">Ödeme Bekleniyor</strong><span class="dashicons dashicons-arrow-left-alt"></span></li>
     <?php }else {   ?>
